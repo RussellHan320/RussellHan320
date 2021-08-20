@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RussellHan320
 - 👀 I’m interested in Image Processing and some client developing.
-- 🌱 I’m currently learning some multi thread tech such as OpenMP, and learning source code of Nanomsg.
+- 🌱 I’m currently learning some multi thread tech such as Golang and C sharp
 - 📫 How to reach me: 
 Email: -> hly.0320@foxmail.com
 
